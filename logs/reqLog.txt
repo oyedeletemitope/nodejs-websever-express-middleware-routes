@@ -1,0 +1,6 @@
+20231123	00:41:29	 b4f5eff9-f2fb-4f36-beb8-f5584e6c11b6	 /new-page	 GET
+20231123	00:41:29	 5adae974-34f9-4380-a1e5-32a8882fbf65	 /css/style.css	 GET
+20231123	00:41:29	 e5eb111a-e080-4cf9-a384-5034abfdda5e	 /img/tope.png	 GET
+20231123	00:43:46	 57c59b04-4a9c-4237-a2c3-83b5876cc9e6	 /new-page	 GET
+20231123	00:43:46	 eb0006a2-ef15-46db-89ae-67d19be67e9b	 /css/style.css	 GET
+20231123	00:43:46	 42da3dbc-9e9b-47ea-88e8-4c2bb7fe72b0	 /img/tope.png	 GET
